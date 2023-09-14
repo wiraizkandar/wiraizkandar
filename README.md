@@ -12,7 +12,7 @@ As an experienced back-end developer, I bring a deep understanding of the server
 
 #### Tools and Frameworks
 
-- Laravel , TurboGears , VueJS , Bootstrap , Tailwind
+- Laravel , TurboGears , VueJS ,InertiaJS, Bootstrap , Tailwind
 - Docker For Local Development
 
 #### Learning
