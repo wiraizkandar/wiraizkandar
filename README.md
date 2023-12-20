@@ -17,7 +17,7 @@ As an experienced back-end developer, I bring a deep understanding of the server
 
 #### My Boilerplate
 - [API using Fiber (Go Framework)](https://github.com/wiraizkandar/fiberapi)
-- [Next with NextAuth](https://github.com/wiraizkandar/next-auth-sample) 
+- [Next with NextAuth](https://github.com/wiraizkandar/next-jwt-auth) 
 
 #### My PHP package
 - https://packagist.org/packages/wiraizkandar/readable-number
