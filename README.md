@@ -4,15 +4,12 @@
 
 As an experienced back-end developer, I bring a deep understanding of the server-side components that power web applications and ensure their functionality, performance, and security
 
-#### Development Skills
+#### Tech Stack
 
-- PHP , Vue , CSS , HTML , JavaScript, Python
+- PHP , Vue , CSS , HTML , JavaScript
 - Mysql , Postgress
 - AWS (S3,SQS,SNS,SES,Lambda,Kinesis Firehose)
-
-#### Tools and Frameworks
-
-- Laravel , TurboGears , VueJS ,InertiaJS, Bootstrap , Tailwind, NextJS, React
+- Laravel , TurboGears , VueJS ,InertiaJS, Bootstrap , Tailwind, NextJS, ReactJS
 - Docker 
 
 #### My Boilerplate
@@ -30,3 +27,6 @@ latest article
 wiraizkandar/wiraizkandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Live Demo Playground
+- [Personal Site](https://wiraizkandar.vercel.app/) (Next + TypeScript + React)
+- [Music Player](https://wiramusic.vercel.app/) (Next + TypeScript + React)
