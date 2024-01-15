@@ -6,10 +6,9 @@ As an experienced back-end developer, I bring a deep understanding of the server
 
 #### Tech Stack
 
-- PHP , Vue , CSS , HTML , JavaScript
-- Mysql , Postgress
+- Mysql, Postgress
 - AWS (S3,SQS,SNS,SES,Lambda,Kinesis Firehose)
-- Laravel , TurboGears , VueJS ,InertiaJS, Bootstrap , Tailwind, NextJS, ReactJS
+- Laravel, TurboGears, VueJS, InertiaJS, Bootstrap, Tailwind, NextJS, ReactJS, PHP, CSS, HTML, JavaScript
 - Docker 
 
 #### My Boilerplate
