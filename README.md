@@ -21,7 +21,8 @@ As an experienced back-end developer, I bring a deep understanding of the server
 
 ### My Medium 
 latest article 
-- Setup local docker env for laravel : [Read Here](https://medium.com/@wiraizkandar1/how-to-use-docker-in-laravel-for-local-development-e684b67ff41b) 
+- [Setup Cassandra Database with Docker](https://medium.com/@wiraizkandar/create-docker-container-for-cassandra-database-ec9ea426a018)
+- [Setup local docker env for laravel](https://medium.com/@wiraizkandar1/how-to-use-docker-in-laravel-for-local-development-e684b67ff41b) 
 <!---
 wiraizkandar/wiraizkandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
