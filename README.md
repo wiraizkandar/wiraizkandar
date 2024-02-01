@@ -19,7 +19,7 @@ As an experienced back-end developer, I bring a deep understanding of the server
 - https://packagist.org/packages/wiraizkandar/readable-number
 - https://packagist.org/packages/wiraizkandar/ia-jwt
 
-### My Medium 
+#### My Medium 
 latest article 
 - [Kafka + (Producer & Consumer) In Local Docker](https://medium.com/@wiraizkandar/02759d20fde6)
 - [Setup Cassandra Database with Docker](https://medium.com/@wiraizkandar/create-docker-container-for-cassandra-database-ec9ea426a018)
@@ -28,6 +28,6 @@ latest article
 wiraizkandar/wiraizkandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Live Demo Playground
+#### Live Demo Playground
 - [Personal Site](https://wiraizkandar.vercel.app/) (Next + TypeScript + React)
 - [Music Player](https://wiramusic.vercel.app/) (Next + TypeScript + React)
