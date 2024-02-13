@@ -6,10 +6,23 @@ As an experienced back-end developer, I bring a deep understanding of the server
 
 #### Tech Stack
 
-- Mysql, Postgress
+- Mysql,
+- Postgress
 - AWS (S3,SQS,SNS,SES,Lambda,Kinesis Firehose)
-- Laravel, TurboGears, VueJS, InertiaJS, Bootstrap, Tailwind, NextJS, ReactJS, PHP, CSS, HTML, JavaScript
-- Docker 
+- Laravel
+- TurboGears
+- VueJS
+- InertiaJS
+- Bootstrap
+- Tailwind
+- NextJS
+- ReactJS
+- PHP
+- CSS
+- HTML
+- JavaScript
+- Docker
+- Golang
 
 #### My Boilerplate
 - [API using Fiber (Go Framework)](https://github.com/wiraizkandar/app-api)
