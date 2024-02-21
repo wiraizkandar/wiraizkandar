@@ -29,8 +29,8 @@ As an experienced back-end developer, I bring a deep understanding of the server
 - [Next with NextAuth](https://github.com/wiraizkandar/next-jwt-auth) 
 
 #### My PHP package
-- https://packagist.org/packages/wiraizkandar/readable-number
-- https://packagist.org/packages/wiraizkandar/ia-jwt
+- [https://packagist.org/packages/wiraizkandar/readable-number](https://packagist.org/packages/wiraizkandar/readable-number)
+- [https://packagist.org/packages/wiraizkandar/ia-jwt](https://packagist.org/packages/wiraizkandar/ia-jwt)
 
 #### My Medium 
 latest article 
