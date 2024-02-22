@@ -1,8 +1,6 @@
 👋 Hi, I’m @wiraizkandar
 
-#### Back-End Developer Expertise
-
-As an experienced back-end developer, I bring a deep understanding of the server-side components that power web applications and ensure their functionality, performance, and security
+As an experienced developer, I bring a deep understanding of the server-side components that power web applications and ensure their functionality, performance, and security
 
 #### Tech Stack
 
