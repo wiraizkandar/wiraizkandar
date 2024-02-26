@@ -5,7 +5,6 @@ As an experienced developer, I bring a deep understanding of the server-side com
 #### Tech Stack
 
 - Mysql,
-- Postgress
 - AWS (S3,SQS,SNS,SES,Lambda,Kinesis Firehose)
 - Laravel
 - TurboGears
