@@ -38,6 +38,4 @@ latest article
 wiraizkandar/wiraizkandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#### Live Demo Playground
-- [Personal Site](https://wiraizkandar.vercel.app/) (Next + TypeScript + React)
-- [Music Player](https://wiramusic.vercel.app/) (Next + TypeScript + React)
+
