@@ -13,8 +13,10 @@ As an experienced developer, I bring a deep understanding of the server-side com
 - Bootstrap
 - Tailwind
 - NextJS
+- NuxtJS
 - ReactJS
 - PHP
+- NodeJS
 - CSS
 - HTML
 - JavaScript
