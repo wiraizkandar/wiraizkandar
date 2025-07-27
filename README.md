@@ -4,7 +4,6 @@ As an experienced developer, I bring a deep understanding of the server-side com
 
 #### Tech Stack
 
-- Mysql,
 - AWS (S3,SQS,SNS,SES,Lambda,Kinesis Firehose)
 - Laravel
 - TurboGears
@@ -14,12 +13,17 @@ As an experienced developer, I bring a deep understanding of the server-side com
 - Tailwind
 - NextJS
 - NuxtJS
+- Fastify Framework
 - ReactJS
 - PHP
 - NodeJS
 - CSS
 - HTML
+- MySQL
+- BullMQ
+- Redis
 - JavaScript
+- Traefik
 - Docker
 - Golang
 
