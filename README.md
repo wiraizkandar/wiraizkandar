@@ -26,6 +26,8 @@ As an experienced developer, I bring a deep understanding of the server-side com
 - Traefik
 - Docker
 - Golang
+- Github Action
+- PM2
 
 #### My PHP package
 - [https://packagist.org/packages/wiraizkandar/readable-number](https://packagist.org/packages/wiraizkandar/readable-number)
